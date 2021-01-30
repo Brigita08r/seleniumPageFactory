@@ -5,4 +5,4 @@ Page Object is a class that represents a web page and hold the functionality and
 POM is mostly used for enhancing test maintenance and reducing code duplication.
 
 In Selenium the PageFactory Class is an extension to the Page Object design pattern. It is used to initialize the Page Object elements or instantiate the Page Objects itself. 
-
+In Page Factory, @FindBy annotation is used. The initElements method is used to initialize web elements.
